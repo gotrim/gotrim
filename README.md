@@ -1,1 +1,1 @@
-![3D Contributions](https://github.com/[SEU_USERNAME]/[SEU_USERNAME]/blob/main/profile-3d-contrib/profile-night-view.svg)
+![3D Contributions](https://github.com/gotrim/gotrim/blob/main/profile-3d-contrib/profile-night-view.svg)
