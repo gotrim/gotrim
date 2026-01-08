@@ -1,1 +1,16 @@
-![3D Contributions](https://github.com/gotrim/gotrim/blob/main/profile-3d-contrib/profile-night-view.svg)
+           ,,,,,,,
+       o#'9MMHb':'-,o,
+    .oH":HH$' "' ' -*R&o,
+   dMMM*""'`'      .oM"HM?.
+  ,MMM'          "HLbd< ?&H\
+ .:MH ."\          ` MM  MM&b
+. "*H    -        &MMMMMMMMMH:
+.    dboo        MMMMMMMMMMMM.
+.   dMMMMMMb      *MMMMMMMMMP.
+.    MMMMMMMP        *MMMMMP .
+     `#MMMMM           MM6P ,
+  '    `MMMP"           HM*`,
+   '    :MM             .- ,
+    '.   `#?..  .       ..'
+       -.   .         .-
+         ''-.oo,oo.-''
