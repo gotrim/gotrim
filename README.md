@@ -1,1 +1,1 @@
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=[SEU_SPOTIFY_ID])
+![3D Contributions](https://github.com/[SEU_USERNAME]/[SEU_USERNAME]/blob/main/profile-3d-contrib/profile-night-view.svg)
