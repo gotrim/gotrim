@@ -1,16 +1,1 @@
-           ,,,,,,,
-       o#'9MMHb':'-,o,
-    .oH":HH$' "' ' -*R&o,
-   dMMM*""'`'      .oM"HM?.
-  ,MMM'          "HLbd< ?&H\
- .:MH ."\          ` MM  MM&b
-. "*H    -        &MMMMMMMMMH:
-.    dboo        MMMMMMMMMMMM.
-.   dMMMMMMb      *MMMMMMMMMP.
-.    MMMMMMMP        *MMMMMP .
-     `#MMMMM           MM6P ,
-  '    `MMMP"           HM*`,
-   '    :MM             .- ,
-    '.   `#?..  .       ..'
-       -.   .         .-
-         ''-.oo,oo.-''
+![Animação Tetris](https://github.com/gotrim/gotrim/blob/output/tetris-contribution-grid.svg)
