@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá,+eu+sou+o+Gotrim!)](https://git.io/typing-svg)
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=[SEU_SPOTIFY_ID])
