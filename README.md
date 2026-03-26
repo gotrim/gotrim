@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://gotrim.github.io/Obejtos/">
+  <a href="https://gotrim.github.io/Analise_3D/">
     <img src="assets/CuBo.gif" alt="Cubo 3D girando" style="width: 50%; height: auto;"/>
   </a>
 </p>
